@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="9100" key="WORKSPACE_VERSION"/>
+	<section name="sync-points">
+		<item value="0" key="size"/>
+	</section>
+	<section name="last.test.options.tab">
+		<section name="editor-A1E7A3723150AF20EB24B23865643737">
+		</section>
+	</section>
+	<section name="EDITOR_STATE">
+		<section name="editor-A1E7A3723150AF20EB24B23865643737">
+			<item value="L/Production_91/Tests/RM_TC2_27-9-2017.testsuite" key="file"/>
+			<item value="0" key="lastEditorViewMode"/>
+			<list key="lastselection">
+				<item value="A1E7A3723150AF20EB24B23865643737"/>
+			</list>
+		</section>
+	</section>
+	<section name="com.ibm.rational.test.common.editor.framework.SearchPage">
+		<item value="false" key="srch.label.case.default"/>
+		<item value="false" key="srch.label.limit.default"/>
+		<item value="true" key="srch.label.recursive.default"/>
+		<item value="false" key="srch.label.select.default"/>
+		<item value="false" key="srch.label.regex.default"/>
+	</section>
+</section>

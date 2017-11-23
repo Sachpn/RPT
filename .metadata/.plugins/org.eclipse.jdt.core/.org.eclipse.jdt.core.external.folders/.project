@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>C:/Program Files/IBM/IBMIMShared/plugins/com.ibm.rational.test.lt.cloudmgr.common_1.0.301.v20170217_2244</location>
+		</link>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>C:/Program Files/IBM/IBMIMShared/plugins/com.ibm.rational.test.lt.httpclient_1.0.210.v20170103_2215</location>
+		</link>
+	</linkedResources>
+</projectDescription>
